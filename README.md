@@ -13,7 +13,7 @@
 - 🎓 I'm currently learning and exploring different areas of software & tech  
 - 🌍 Interested in open collaboration and real-world impact  
 - 🎯 Always up for a challenge, especially ones that need creativity and logic  
-- 📫 Reach me at: joaopereira237@gmail.com | [LinkedIn](https://www.linkedin.com/in/joao-pereira-b449321ab/)
+- 📫 Reach me at: joaopereira237@gmail.com | [LinkedIn](https://www.linkedin.com/in/joaopereira237/)
 
 ---
 
@@ -57,5 +57,5 @@
 ---
 
 <div align="center">
-  Last updated: August 2025
+  Last updated: October 2025
 </div>
